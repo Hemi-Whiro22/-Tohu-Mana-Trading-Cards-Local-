@@ -86,7 +86,20 @@ const App: React.FC = () => {
     let loadedCards = initialInventory as Card[];
     if (savedCards) {
       try {
-        loadedCards = JSON.parse(savedCards);
+        const parsedSaved = JSON.parse(savedCards) as Card[];
+        // Prevent stale browser storage from overriding fresh database updates.
+        // We only keep saved cards that do not exist in initialInventory.
+        const initialCardIds = new Set(loadedCards.map(c => c.id));
+        const initialCardNumbers = new Set(loadedCards.map(c => c.cardNumber.toUpperCase()));
+        
+        const uniqueLocalScans = parsedSaved.filter(c => {
+          if (!c || !c.cardNumber) return false;
+          const matchById = initialCardIds.has(c.id);
+          const matchByNum = initialCardNumbers.has(c.cardNumber.toUpperCase());
+          return !matchById && !matchByNum;
+        });
+        
+        loadedCards = [...uniqueLocalScans, ...loadedCards];
       } catch (e) {
         console.error("Failed to parse saved cards:", e);
       }
