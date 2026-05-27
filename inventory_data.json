@@ -74,6 +74,216 @@
     "rawOcrData": ""
   },
   {
+    "id": "card:BT23-060SR_5c764ee2a94aedef",
+    "tohuManaId": "TM-BT23060SR",
+    "name": "Vegeta, Saiyan Strength (SPR)",
+    "cardNumber": "BT23-060SR",
+    "setName": "Perfect Combination",
+    "imageUrl": "/images/BT23-060SR_Vegeta-Saiyan-Strength-SPR.jpg",
+    "images": [
+      "/images/BT23-060SR_Vegeta-Saiyan-Strength-SPR.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.39,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT23-060SR_Vegeta-Saiyan-Strength-SPR.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.31
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.35
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.52
+      },
+      {
+        "date": "Current",
+        "price": 0.39
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Vegeta, Saiyan Strength BT23-060",
+        "uri": "https://www.pricecharting.com/search-products?q=BT23-060&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Activate:Main Limit - your Leaderisa blue Playthis (Saiyan you have 4 moreenergy cardand or OC Dual Attack for card gains theturn, Vegeta 16000 Character POWER Special Trait Saiyan Era Saiyan Saga CBS/S.TA EN BT23-060 SR BANDAIMADE IN JAPAN"
+  },
+  {
+    "id": "card:BT17-084SR_0366698567decec2",
+    "tohuManaId": "TM-BT17084SR",
+    "name": "SS Vegeta, Z Fighter",
+    "cardNumber": "BT17-084SR",
+    "setName": "Ultimate Squad",
+    "imageUrl": "/images/BT17-084SR_SS-Vegeta-Z-Fighter.jpg",
+    "images": [
+      "/images/BT17-084SR_SS-Vegeta-Z-Fighter.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.32,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT17-084SR_SS-Vegeta-Z-Fighter.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.26
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.29
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.43
+      },
+      {
+        "date": "Current",
+        "price": 0.32
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: SS Vegeta, Z Fighter BT17-084",
+        "uri": "https://www.pricecharting.com/search-products?q=BT17-084&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "N SUU Auto Limit When this card is placed in a Drop 1 Area from your Unison Area, ,draw 1 card. Activate:Main This card gets + 6000 powerforthe 1 turn. 4000 POWER ©B.S/S.TA LW BT17-084 SR EN BANDAIMADEINJAPAN"
+  },
+  {
+    "id": "card:BT21-060SR_07d8852b0687bee6",
+    "tohuManaId": "TM-BT21060SR",
+    "name": "Baby, Shining Gold Evil Lifeform (SPR)",
+    "cardNumber": "BT21-060SR",
+    "setName": "Wild Resurgence",
+    "imageUrl": "/images/BT21-060SR_Baby-Shining-Gold-Evil-Lifeform-SPR.jpg",
+    "images": [
+      "/images/BT21-060SR_Baby-Shining-Gold-Evil-Lifeform-SPR.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.27,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT21-060SR_Baby-Shining-Gold-Evil-Lifeform-SPR.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.22
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.24
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.37
+      },
+      {
+        "date": "Current",
+        "price": 0.27
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Baby, Shining Gold Evil Lifeform BT21-060",
+        "uri": "https://www.pricecharting.com/search-products?q=BT21-060&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "uchoose blue <Vegeta:dl myourDropainayuns A the chosen card place under ard fromyour hand and this card. Baby Character 35000 POWER Special Trait Machine Mutant/Saiyan/Great Ape Baby Saga Era 1 BT21-060SR ©B.S/S.TA EN BANDAI MADE IN JAPAN"
+  },
+  {
+    "id": "card:P-248PR_a41c9f4677d6a7fb",
+    "tohuManaId": "TM-P248PR",
+    "name": "Broly, Astonishing Potential (Event Pack 07)",
+    "cardNumber": "P-248PR",
+    "setName": "Tournament Promotion Cards",
+    "imageUrl": "/images/P-248PR_Broly-Astonishing-Potential-Event-Pack-07.jpg",
+    "images": [
+      "/images/P-248PR_Broly-Astonishing-Potential-Event-Pack-07.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.22,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-248PR_Broly-Astonishing-Potential-Event-Pack-07.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.18
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.3
+      },
+      {
+        "date": "Current",
+        "price": 0.22
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Broly, Astonishing Potential P-248",
+        "uri": "https://www.pricecharting.com/search-products?q=P-248&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Auto Place I caratrom youneuyouCs to1red(Ba:Br card When played, play this card lis up from deck. your deck, then shuffle your Braly : Br Character 4000 Saiyan POWER Special Trait D8SBroly Saga Era CBS/S.IA P-248 PR UW EN RE BANDAUMADEIN JAPAN"
+  },
+  {
+    "id": "card:BT22-138_0bdb56501f12ed58",
+    "tohuManaId": "TM-BT22138",
+    "name": "Bursting Rage",
+    "cardNumber": "BT22-138",
+    "setName": "Critical Blow",
+    "imageUrl": "/images/BT22-138_Bursting-Rage.jpg",
+    "images": [
+      "/images/BT22-138_Bursting-Rage.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 84.0,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT22-138_Bursting-Rage.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 67.2
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 75.6
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 113.4
+      },
+      {
+        "date": "Current",
+        "price": 84.0
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Bursting Rage BT22-138",
+        "uri": "https://www.pricecharting.com/search-products?q=BT22-138&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Burst 1 This card gets +10000 power Activate:Main forthe turn. 5000 POWER CBSAIA NOT FOR SALE BANDAUMADEINJAPAN EN"
+  },
+  {
     "id": "card:BT24-045_3790e64ece52e3c4",
     "tohuManaId": "TM-BT24045",
     "name": "Hirudegarn, Center of Evil Energy",
@@ -146,6 +356,90 @@
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": ""
+  },
+  {
+    "id": "card:BT28-028UC_73a1cd3df7839778",
+    "tohuManaId": "TM-BT28028UC",
+    "name": "Son Goku (Mini)",
+    "cardNumber": "BT28-028UC",
+    "setName": "Ultra Instinct",
+    "imageUrl": "/images/BT28-028UC_Son-Goku-Mini.jpg",
+    "images": [
+      "/images/BT28-028UC_Son-Goku-Mini.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.36,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-028UC_Son-Goku-Mini.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.29
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.49
+      },
+      {
+        "date": "Current",
+        "price": 0.36
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Son Goku Mini // SS Son Goku, New Adventure BT28-028",
+        "uri": "https://www.pricecharting.com/search-products?q=BT28-028&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Activate:Main Once per turn Draw 1 card, then choose Unisons with aspecifiedcostof2 all ofyour mono-bluel Active Mode. and switch them to Character Son Goku (Mini) : DA 15000 POWER Saiyan/Demon Realm Special Trait DAIMA Saga Era ULTRA BT28-028 UC BOUT"
+  },
+  {
+    "id": "card:BT25-094_ddb16d275f3b6a11",
+    "tohuManaId": "TM-BT25094",
+    "name": "SSB Vegito, Potara-Fusion to Protect the Future",
+    "cardNumber": "BT25-094",
+    "setName": "Legend of the Dragon Balls",
+    "imageUrl": "/images/BT25-094_SSB-Vegito-Potara-Fusion-to-Protect-the-Future.jpg",
+    "images": [
+      "/images/BT25-094_SSB-Vegito-Potara-Fusion-to-Protect-the-Future.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.24,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT25-094_SSB-Vegito-Potara-Fusion-to-Protect-the-Future.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.19
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.22
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "Current",
+        "price": 0.24
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Legend of the Dragon Balls",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Opponent's Battle Cards or Unisons, and it can't be switched to Active Mode until the end of their next Charge Phase Vegito Craracter 25000 POWER Saiyan Future Trunks Saga BS.S.IA NOTFORSALE VOAMADENRANEN"
   },
   {
     "id": "card:FB02-119_052642d3b23cdc76",
@@ -296,6 +590,48 @@
     "rawOcrData": "POWER 15000 Character Glorio:DA Special Trait God/Deman Reaim Era DAIMA Saga OBS/STA YITRA BANDAI MADE IN JAPAN EN BT28-041UC"
   },
   {
+    "id": "card:TB-3-051FR_33b59bd3b930091d",
+    "tohuManaId": "TM-TB3051FR",
+    "name": "Vegeta: Br",
+    "cardNumber": "TB-3-051FR",
+    "setName": "Broly Saga",
+    "imageUrl": "/images/TB-3-051FR_Vegeta-Br.jpg",
+    "images": [
+      "/images/TB-3-051FR_Vegeta-Br.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.15,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/TB-3-051FR_Vegeta-Br.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "Current",
+        "price": 0.15
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Broly Saga",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "of your energy and switch it to Active Mode. Vegeta: Br Character 10000 POWER Special Trait Saiyan Era 085: Broly Saga CBS/STA TB3-051FR EN RE BANDAU MADEINJAPAN"
+  },
+  {
     "id": "card:P-639PR_4e0a974ea4028cc7",
     "tohuManaId": "TM-P639PR",
     "name": "Fin, Evolving Dark Power (Zenkai Series Tournament Pack Vol.9) (Winner)",
@@ -338,6 +674,48 @@
     "rawOcrData": "Play up to 1Skill Once per turn Activate:Main Diabolical Fusion] with {Super Mira, Hunter Majin Buujor 2 markers on it from your hand or Drop 30000 Character Fin POWER Special Trai Android Era Dark(Empire Saga BS&1A P-639 PR NOT FOR SALE BANDAMADENJARAN EN"
   },
   {
+    "id": "card:BT15-075SR_5798d3c5aa91533e",
+    "tohuManaId": "TM-BT15075SR",
+    "name": "Vegeta, Elite Resolve",
+    "cardNumber": "BT15-075SR",
+    "setName": "Saiyan Showdown",
+    "imageUrl": "/images/BT15-075SR_Vegeta-Elite-Resolve.jpg",
+    "images": [
+      "/images/BT15-075SR_Vegeta-Elite-Resolve.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.39,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT15-075SR_Vegeta-Elite-Resolve.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.31
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.35
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.52
+      },
+      {
+        "date": "Current",
+        "price": 0.39
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Vegeta, Elite Resolve BT15-075",
+        "uri": "https://www.pricecharting.com/search-products?q=BT15-075&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Lookat up to5 cardstrom thetop of your deck, add up to1 Saiyan card with of3 green cost orless an energy them your hand, then shuffle your deck. among to Chooseup to1 (Vegeta's Ball] in deck,add Power your ittoyourhand, then shuffle your deck. Vegeta 4000 Character POWER Special Trait Salyan Era Saiyan Saga ©B.S/S.TA LW BT15-075 SR BANDAI MADE IN JAPANEN"
+  },
+  {
     "id": "card:BT24-027SR_3041f996a9501add",
     "tohuManaId": "TM-BT24027SR",
     "name": "Trunks, Admiration of Tapion",
@@ -373,6 +751,90 @@
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": "of your <Hirudegarn> cards Activate:Main Choose and KO of your blue (Hero) then cards it, choose t0 withan itto its owner's energy of and return cost hand&Switch toActiveMode. up to 1 of your energy 15000 POWER BS/S,IA BT24-027 SR BANDAIMADEINJAPAN EN"
+  },
+  {
+    "id": "card:P-463PR_40d6fcccf96f2145",
+    "tohuManaId": "TM-P463PR",
+    "name": "Gakua",
+    "cardNumber": "P-463PR",
+    "setName": "Boujack Saga",
+    "imageUrl": "/images/P-463PR_Gakua.jpg",
+    "images": [
+      "/images/P-463PR_Gakua.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-463PR_Gakua.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.4
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.68
+      },
+      {
+        "date": "Current",
+        "price": 0.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Boujack Saga",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Rest Mode.lt you do. place one oryourenergymyour s1 card from their hand tplaces Drop, and your opponent oftheir deck. at the bottom Gakua Character 20000 POWER Special Trait Boujack Brigade Boujack Saga Era P-463 PR CBS/STA NOT FOR SALE BANDAMADENJARAN EN"
+  },
+  {
+    "id": "card:P-475PR_65c60f1eae5076e9",
+    "tohuManaId": "TM-P475PR",
+    "name": "Omega Shenron, the Strongest Agent of Destruction (Z03 Dash Pack)",
+    "cardNumber": "P-475PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-475PR_Omega-Shenron-the-Strongest-Agent-of-Destruction-Z03-Dash-Pack.jpg",
+    "images": [
+      "/images/P-475PR_Omega-Shenron-the-Strongest-Agent-of-Destruction-Z03-Dash-Pack.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.28,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-475PR_Omega-Shenron-the-Strongest-Agent-of-Destruction-Z03-Dash-Pack.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.22
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.25
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.38
+      },
+      {
+        "date": "Current",
+        "price": 0.28
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Promotion Cards",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "cards with tAgentorbesuuee BattleArea,and Dropis 7 Z-Energy. Leader Arean energy card from your hand. Playthis ormore: Syw Shenran 30000 Character POWER Scecial Trait Shadow Cragan Agent ofCestruchian Spectal BSSIA P-475PR NARAN EN NOT FOR SALE"
   },
   {
     "id": "card:S801-03_fe2cda016ab389e4",
@@ -540,6 +1002,48 @@
     "rawOcrData": ""
   },
   {
+    "id": "card:P-488PR_907500eb4897edfc",
+    "tohuManaId": "TM-P488PR",
+    "name": "Brianne De Chateau, Elegant Fighter (Zenkai Series Tournament Pack Vol.3 Winner)",
+    "cardNumber": "P-488PR",
+    "setName": "Tournament Promotion Cards",
+    "imageUrl": "/images/P-488PR_Brianne-De-Chateau-Elegant-Fighter-Zenkai-Series-Tournament-Pack-Vol3-Winner.jpg",
+    "images": [
+      "/images/P-488PR_Brianne-De-Chateau-Elegant-Fighter-Zenkai-Series-Tournament-Pack-Vol3-Winner.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.25,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-488PR_Brianne-De-Chateau-Elegant-Fighter-Zenkai-Series-Tournament-Pack-Vol3-Winner.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.23
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.34
+      },
+      {
+        "date": "Current",
+        "price": 0.25
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Brianne De Chateau, Elegant Fighter P-488",
+        "uri": "https://www.pricecharting.com/search-products?q=P-488&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "LSa to its owner's Warp Playup to 1 <Ribrianne>card green with an energy cost of5 from your hand. 15000 Character Brianne De Chateau POWER Special Trait Maiden Squadron/Universe 2 Era Universe Survival Saga CBS/S.1A P-488 PR EN NOT FOR SALE BANDASMADEN JARAN"
+  },
+  {
     "id": "card:BT25-005SR_c572137d9dd17d93",
     "tohuManaId": "TM-BT25005SR",
     "name": "Son Goku, Non-stop Attack",
@@ -575,6 +1079,174 @@
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": "Battle Cards with 30oo0 poweror more and place itin its owner'sDrop:This card gets+9000power and Double Strike forthe battle. 16000 Character Son Goku : Childhood POWER Special Trait Salyan Era KingiPiecolo Saga CO EAUOCCamOon a00 ENK BT25-005 SR"
+  },
+  {
+    "id": "card:P-212PR_49aedf36af94fac3",
+    "tohuManaId": "TM-P212PR",
+    "name": "Obsession",
+    "cardNumber": "P-212PR",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/P-212PR_Obsession.jpg",
+    "images": [
+      "/images/P-212PR_Obsession.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 17.08,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-212PR_Obsession.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 13.66
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 15.37
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 23.06
+      },
+      {
+        "date": "Current",
+        "price": 17.08
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: SS Rose Goku Black, Unison of Extermination P-212",
+        "uri": "https://www.pricecharting.com/search-products?q=P-212&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "ofits owner'sdeck.t place itatthe bottom 15000 POWER OBS/S.1A P-212 PR NOT FOR SALE BANDAIMADE IN JAPAN EN"
+  },
+  {
+    "id": "card:BT24-060_cabcd4070280b537",
+    "tohuManaId": "TM-BT24060",
+    "name": "You Must Die By My Hand!",
+    "cardNumber": "BT24-060",
+    "setName": "Beyond Generations",
+    "imageUrl": "/images/BT24-060_You-Must-Die-By-My-Hand.jpg",
+    "images": [
+      "/images/BT24-060_You-Must-Die-By-My-Hand.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.13,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT24-060_You-Must-Die-By-My-Hand.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.1
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.18
+      },
+      {
+        "date": "Current",
+        "price": 0.13
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Beyond Generations",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Auto Once per turn Whenthiscardattacksand Kosam Battle Card, youropponentchooses1'card in opponent's their hand and discardsit. Vegeta 20000 Darce POWER Saiyan/Universe 7 Special Trant Champa Saga CRSSIAH BANDANMADEINJAPAN EN"
+  },
+  {
+    "id": "card:BT5-083_93aa32682f7f0146",
+    "tohuManaId": "TM-BT5083",
+    "name": "SSB Vegeta, Testing His Limits",
+    "cardNumber": "BT5-083",
+    "setName": "Manual Set",
+    "imageUrl": "/images/BT5-083_SSB-Vegeta-Testing-His-Limits.jpg",
+    "images": [
+      "/images/BT5-083_SSB-Vegeta-Testing-His-Limits.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT5-083_SSB-Vegeta-Testing-His-Limits.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.4
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.68
+      },
+      {
+        "date": "Current",
+        "price": 0.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: SSB Vegeta, Testing His Limits BT5-083",
+        "uri": "https://www.pricecharting.com/search-products?q=BT5-083&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Auto Once per turn Burst5 (You must place the top5 cards yourdeck in of your Drop Area to activate this skill.) When this card attacks, switch this card to Active Mode, 20000 Character Vegeta POWER Special Trait Saiyan Era ResurrectionF Saga ORSSBA BANDATMADENJARAY BTS-083SA"
+  },
+  {
+    "id": "card:BT27-039SR_6f38afd1cdd0c37f",
+    "tohuManaId": "TM-BT27039SR",
+    "name": "SSB Vegeta, Power of Conviction (Serial Numbered)",
+    "cardNumber": "BT27-039SR",
+    "setName": "History of Z",
+    "imageUrl": "/images/BT27-039SR_SSB-Vegeta-Power-of-Conviction-Serial-Numbered.jpg",
+    "images": [
+      "/images/BT27-039SR_SSB-Vegeta-Power-of-Conviction-Serial-Numbered.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.25,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT27-039SR_SSB-Vegeta-Power-of-Conviction-Serial-Numbered.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.8
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 2.02
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 3.04
+      },
+      {
+        "date": "Current",
+        "price": 2.25
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: SSB Vegeta, Power of Conviction BT27-039",
+        "uri": "https://www.pricecharting.com/search-products?q=BT27-039&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "from the game instead. Leader is blue \"ifyour eand Activate:Main Limit 1 OO Play this cardfrom you have 3 or more energy: your hand. Character Vegeta 35000 POWER Saiyan/Universe 7 Special Trait Ena Universe Survival Saga B.S/S.T.A BT27-039 SR EN BANDAI MADE IN JAPAN"
   },
   {
     "id": "card:BT28-103_be93b472828c9ee7",
@@ -688,6 +1360,48 @@
     "rawOcrData": "tace-up cardsinyourlitetaceaown. roucanntacuvate the skillson card for the turn. Auto copies of this Character Launch 1000 POWER Special-Trait Earthling King Piccolo Saga Era DBS/S-TA P-274 PR BANDAI MADE IN JAPAN EN RE"
   },
   {
+    "id": "card:EX15-02_4c156b4c72ebf61e",
+    "tohuManaId": "TM-EX1502",
+    "name": "Vegeta",
+    "cardNumber": "EX15-02",
+    "setName": "Shadow Dragon",
+    "imageUrl": "/images/EX15-02_Vegeta.jpg",
+    "images": [
+      "/images/EX15-02_Vegeta.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/EX15-02_Vegeta.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.4
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.68
+      },
+      {
+        "date": "Current",
+        "price": 0.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Shadow Dragon",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "markers onit,thenshumeyourdcckuS  through it. blue Unison nCard in If you have Auto Once per turn a the endofyourturn, play with 2 markers on it8 At or more switchthis card Active Mode. to Character Vegeta &GT 20000 POWER Special Trait Saiyan Era Shadow Oragon Saga CB.S/S,TA BANDAIMADEINJAPAN EN UW EX15-02 EX"
+  },
+  {
     "id": "card:BT25-085SR_c2a87ef6cf5ac157",
     "tohuManaId": "TM-BT25085SR",
     "name": "Boujack, Unleashed Space Pirate (SPR)",
@@ -718,7 +1432,12 @@
         "price": 0.45
       }
     ],
-    "sources": [],
+    "sources": [
+      {
+        "title": "PriceCharting: Boujack, Unleashed Space Pirate BT25-085",
+        "uri": "https://www.pricecharting.com/search-products?q=BT25-085&type=prices"
+      }
+    ],
     "grade": null,
     "verificationHash": null,
     "isManualUpload": false,
@@ -836,6 +1555,132 @@
     "rawOcrData": "<Vegito> card and your opponent has 2 or more energy 8 Draw card and play this card from your hand. 1 Character Son Goku 20000 POWER Special Trait Saiyan Era Majin Buu Saga OB.S/S.TA ILTRA BT28-092 UC BANDAIMADEIISJAPAN EN BOUT"
   },
   {
+    "id": "card:BT16-005_2302b013eea4f800",
+    "tohuManaId": "TM-BT16005",
+    "name": "Son Goku, Ultra Mastery (SPR)",
+    "cardNumber": "BT16-005",
+    "setName": "Realm of the Gods",
+    "imageUrl": "/images/BT16-005_Son-Goku-Ultra-Mastery-SPR.jpg",
+    "images": [
+      "/images/BT16-005_Son-Goku-Ultra-Mastery-SPR.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.59,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT16-005_Son-Goku-Ultra-Mastery-SPR.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.47
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.53
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.8
+      },
+      {
+        "date": "Current",
+        "price": 0.59
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Son Goku, Ultra Mastery BT16-005",
+        "uri": "https://www.pricecharting.com/search-products?q=BT16-005&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Activate:Main if there 10 or are more KUniverse 7 cards in Drop Area: Play this your card from your hand, choose all ofyour opponent's Battle Cards and they get -35000 powerforthe turn, and you can'tplay non-red Battle Cards forthe turn. 35000 Character Son Gaku POWER Special Trait Saiyan Universe 7 Era Universe Survival Saga OB.S/S.TA BANDAIMADEIN JAPAN EN TW BT16-005 SA"
+  },
+  {
+    "id": "card:BT23-081_ddb16d275f3b6a11",
+    "tohuManaId": "TM-BT23081",
+    "name": "SS2 Trunks, Path to the Future",
+    "cardNumber": "BT23-081",
+    "setName": "Perfect Combination",
+    "imageUrl": "/images/BT23-081_SS2-Trunks-Path-to-the-Future.jpg",
+    "images": [
+      "/images/BT23-081_SS2-Trunks-Path-to-the-Future.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 1.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT23-081_SS2-Trunks-Path-to-the-Future.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.2
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.35
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 2.02
+      },
+      {
+        "date": "Current",
+        "price": 1.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: SS2 Trunks, Path to the Future BT23-081",
+        "uri": "https://www.pricecharting.com/search-products?q=BT23-081&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "25000 Saiyan Future Trunks Saga"
+  },
+  {
+    "id": "card:P-470PR_614db3ff3b94bd01",
+    "tohuManaId": "TM-P470PR",
+    "name": "Pan, Search for Another World (Z03 Dash Pack)",
+    "cardNumber": "P-470PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-470PR_Pan-Search-for-Another-World-Z03-Dash-Pack.jpg",
+    "images": [
+      "/images/P-470PR_Pan-Search-for-Another-World-Z03-Dash-Pack.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.57,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-470PR_Pan-Search-for-Another-World-Z03-Dash-Pack.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.46
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.51
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.77
+      },
+      {
+        "date": "Current",
+        "price": 0.57
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Promotion Cards",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "charactername Choose1 ofyour opponentsBattle 8 Warp. Cardsand send ditto its owner's Pan : Xeno Character 15000 POWER Salyan/Earthling Special Trait Dark Empire Saga Era CBS/S.TA P-470 PR EN BANDAI MADE IN JAPAN NOT FOR SALE"
+  },
+  {
     "id": "card:BT28-106UC_c28230c687a8812c",
     "tohuManaId": "TM-BT28106UC",
     "name": "Belmod",
@@ -910,6 +1755,48 @@
     "rawOcrData": ""
   },
   {
+    "id": "card:BT03-003SR_9880b152513cd2a7",
+    "tohuManaId": "TM-BT03003SR",
+    "name": "Son Goku & GT",
+    "cardNumber": "BT03-003SR",
+    "setName": "Baby Saga",
+    "imageUrl": "/images/BT03-003SR_Son-Goku--GT.jpg",
+    "images": [
+      "/images/BT03-003SR_Son-Goku--GT.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT03-003SR_Son-Goku--GT.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.4
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.68
+      },
+      {
+        "date": "Current",
+        "price": 0.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Baby Saga",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "STrEJese Double Strike Auto Once per When this card attacks, switch this turn card toActive Mode,and it gains+5oo0 powerforthe durationofthe turn. 25000 Character SOnNGokU&GT POWER Special Trait Saiyan Era Baby Saga OBS/S,TA OR BANDAI2O1B MADEINJARAN BT3-003 SR"
+  },
+  {
     "id": "card:P-471PR_62c91ad7cbbe70b6",
     "tohuManaId": "TM-P471PR",
     "name": "Son Goten, Challenging the Dark Empire (Z03 Dash Pack)",
@@ -945,6 +1832,48 @@
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": "SupremeKaror Time>,you nave Z or more energy. and youhave <Trunks:Xeno> in play Play thiscardfrom a handor Warp. your 25000 Character Son Goten 8Xeno POWER Special Trait Saiyan/Earthling Era Dark Empire Saga OBS/S.TA BANDAU MADEINJAPAN EN NOT FOR SALE P-471 PR"
+  },
+  {
+    "id": "card:BT11-066SR_6312660977e19fed",
+    "tohuManaId": "TM-BT11066SR",
+    "name": "Prince of Destruction Vegeta, Prideful Warrior (SPR)",
+    "cardNumber": "BT11-066SR",
+    "setName": "Vermilion Bloodline",
+    "imageUrl": "/images/BT11-066SR_Prince-of-Destruction-Vegeta-Prideful-Warrior-SPR.jpg",
+    "images": [
+      "/images/BT11-066SR_Prince-of-Destruction-Vegeta-Prideful-Warrior-SPR.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 6.51,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT11-066SR_Prince-of-Destruction-Vegeta-Prideful-Warrior-SPR.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 5.21
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 5.86
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 8.79
+      },
+      {
+        "date": "Current",
+        "price": 6.51
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Prince of Destruction Vegeta, Prideful Warrior BT11-066",
+        "uri": "https://www.pricecharting.com/search-products?q=BT11-066&type=prices"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "isplayed, choose to 1 of up your opponent's Unison Card's and remove 3 markers from it. Vegeta 20000 Character POWER Special Trait Saiyan Era The Evil Wizard Babidi Saga CBS/S.TA UW BT11-066 SR BANDAIMADEIN JAPAN EN RE"
   },
   {
     "id": "card:BT28-056UC_1da1fd8534f5010d",
@@ -1051,10 +1980,57 @@
         "price": 0.32
       }
     ],
-    "sources": [],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Promotion Cards",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
     "grade": null,
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": "2cards from your life to your hand, choose1 <Trunks: GT> card in <SonGoku:GT> Battle or your Area,and itgets +5000 power fortheturn. 10000 Character Pan POWER Special Trait Saiyan/Earthling Era Black Star Dragon Ball Saga OBS/S.TA BANDAI MADE IN JAPAN EN NOT FOR SALE P-460 PR"
+  },
+  {
+    "id": "card:P-553PR_24fa3e4bc4c6d201",
+    "tohuManaId": "TM-P553PR",
+    "name": "SS Son Goku & SS Vegeta & SS Trunks, United",
+    "cardNumber": "P-553PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-553PR_SS-Son-Goku--SS-Vegeta--SS-Trunks-United.jpg",
+    "images": [
+      "/images/P-553PR_SS-Son-Goku--SS-Vegeta--SS-Trunks-United.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.13,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-553PR_SS-Son-Goku--SS-Vegeta--SS-Trunks-United.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.1
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.18
+      },
+      {
+        "date": "Current",
+        "price": 0.13
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Promotion Cards",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "<Son Goku> and choose 7 otyour red Salyand card you then place nyourhand, Cards8 Play this card from Battle the chosen underthis card. card Character San Goku/Vegeta/Trunks: Future 15000 POWER Special Trait Saiyan/Earthling Era Andraid 13 Saga CBS/S,1A P-553 PR ANDAMADEIN JARAN EN"
   }
 ]
