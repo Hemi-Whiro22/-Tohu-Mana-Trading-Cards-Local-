@@ -1,0 +1,7 @@
+{
+  "name": "Tohu Mana Trading",
+  "description": "An advanced trading card inventory and valuation app featuring AI-powered scanning, OCR, real-time market price analysis via Google Search grounding, and a personalized AI collector assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

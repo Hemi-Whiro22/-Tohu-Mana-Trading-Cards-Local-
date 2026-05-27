@@ -1,0 +1,1060 @@
+[
+  {
+    "id": "card:BT10-110_b48b9679b3bf3715",
+    "tohuManaId": "TM-BT10110",
+    "name": "Gotenks, Going All-Out",
+    "cardNumber": "BT10-110",
+    "setName": "Rise of the Unison Warrior",
+    "imageUrl": "/images/BT10-110_Gotenks-Going-All-Out.jpg",
+    "images": [
+      "/images/BT10-110_Gotenks-Going-All-Out.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.33,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT10-110_Gotenks-Going-All-Out.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.26
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.3
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.44
+      },
+      {
+        "date": "Current",
+        "price": 0.33
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "RestMode,ignoring Barner opponent's Battle Cards sin negate its skills for the turn then KO it. Gotenks Adclescence 25000 POWER Saiyan/Earthling Special ORSSWA BT1G-110SR BANDARRAE"
+  },
+  {
+    "id": "card:BT16-107-SR_c057bdf669f5e916",
+    "tohuManaId": "TM-BT16107SR",
+    "name": "SSG Trunks, Power Awakened",
+    "cardNumber": "BT16-107-SR",
+    "setName": "Realm of the Gods",
+    "imageUrl": "/images/BT16-107-SR_SSG-Trunks-Power-Awakened.jpg",
+    "images": [
+      "/images/BT16-107-SR_SSG-Trunks-Power-Awakened.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 1.21,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT16-107-SR_SSG-Trunks-Power-Awakened.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.97
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.09
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 1.63
+      },
+      {
+        "date": "Current",
+        "price": 1.21
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT24-045_3790e64ece52e3c4",
+    "tohuManaId": "TM-BT24045",
+    "name": "Hirudegarn, Center of Evil Energy",
+    "cardNumber": "BT24-045",
+    "setName": "Beyond Generations",
+    "imageUrl": "/images/BT24-045_Hirudegarn-Center-of-Evil-Energy.jpg",
+    "images": [
+      "/images/BT24-045_Hirudegarn-Center-of-Evil-Energy.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.4,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT24-045_Hirudegarn-Center-of-Evil-Energy.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.36
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.54
+      },
+      {
+        "date": "Current",
+        "price": 0.4
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT22-127SPR_93a7e8cf24d350ac",
+    "tohuManaId": "TM-BT22127SPR",
+    "name": "SS Cumber, Assailants Fury (SPR)",
+    "cardNumber": "BT22-127SPR",
+    "setName": "Critical Blow",
+    "imageUrl": "/images/BT22-127SPR_SS-Cumber-Assailants-Fury-(SPR).jpg",
+    "images": [
+      "/images/BT22-127SPR_SS-Cumber-Assailants-Fury-(SPR).jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.72,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT22-127SPR_SS-Cumber-Assailants-Fury-(SPR).jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 2.18
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 2.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 3.67
+      },
+      {
+        "date": "Current",
+        "price": 2.72
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:FB02-119_052642d3b23cdc76",
+    "tohuManaId": "TM-FB02119",
+    "name": "Son Goku",
+    "cardNumber": "FB02-119",
+    "setName": "Blazing Aura",
+    "imageUrl": "/images/FB02-119_Son-Goku.jpg",
+    "images": [
+      "/images/FB02-119_Son-Goku.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 18.56,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/FB02-119_Son-Goku.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 14.85
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 16.7
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 25.06
+      },
+      {
+        "date": "Current",
+        "price": 18.56
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT28-078_662598c567925ae9",
+    "tohuManaId": "TM-BT28078",
+    "name": "Son Gohan // Great Saiyaman, Love of Justice",
+    "cardNumber": "BT28-078",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/BT28-078_Son-Gohan-Great-Saiyaman-Love-of-Justice.jpg",
+    "images": [
+      "/images/BT28-078_Son-Gohan-Great-Saiyaman-Love-of-Justice.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.34,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-078_Son-Gohan-Great-Saiyaman-Love-of-Justice.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.27
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.31
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.46
+      },
+      {
+        "date": "Current",
+        "price": 0.34
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Son Gohan 8Adolescence> card withanenergycost Drop in RestMode of4 and 15000 powerfromyour with its skills negated forthe game. 15000 Character San Gahan Adolescence POWER Special Trait Saiyan/Earthing/Heraic The Evil Wizard-Babidi Saga Era JLTRA 8T28-078U BOUT"
+  },
+  {
+    "id": "card:BT22-127_93a7e8cf24d350ac",
+    "tohuManaId": "TM-BT22127",
+    "name": "SS Cumber, Assailants Fury",
+    "cardNumber": "BT22-127",
+    "setName": "Critical Blow",
+    "imageUrl": "/images/BT22-127_SS-Cumber-Assailants-Fury.jpg",
+    "images": [
+      "/images/BT22-127_SS-Cumber-Assailants-Fury.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.72,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT22-127_SS-Cumber-Assailants-Fury.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 2.18
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 2.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 3.67
+      },
+      {
+        "date": "Current",
+        "price": 2.72
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT28-041UC_7c6e613807159cfa",
+    "tohuManaId": "TM-BT28041UC",
+    "name": "Glorio",
+    "cardNumber": "BT28-041UC",
+    "setName": "DAIMA Saga",
+    "imageUrl": "/images/BT28-041UC_Glorio.jpg",
+    "images": [
+      "/images/BT28-041UC_Glorio.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.15,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-041UC_Glorio.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "Current",
+        "price": 0.15
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "POWER 15000 Character Glorio:DA Special Trait God/Deman Reaim Era DAIMA Saga OBS/STA YITRA BANDAI MADE IN JAPAN EN BT28-041UC"
+  },
+  {
+    "id": "card:P-639PR_4e0a974ea4028cc7",
+    "tohuManaId": "TM-P639PR",
+    "name": "Fin, Evolving Dark Power (Zenkai Series Tournament Pack Vol.9) (Winner)",
+    "cardNumber": "P-639PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-639PR_Fin-Evolving-Dark-Power-Zenkai-Series-Tournament-Pack-Vol9-Winner.jpg",
+    "images": [
+      "/images/P-639PR_Fin-Evolving-Dark-Power-Zenkai-Series-Tournament-Pack-Vol9-Winner.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.2,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-639PR_Fin-Evolving-Dark-Power-Zenkai-Series-Tournament-Pack-Vol9-Winner.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.76
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.98
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 2.97
+      },
+      {
+        "date": "Current",
+        "price": 2.2
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Promotion Cards",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Play up to 1Skill Once per turn Activate:Main Diabolical Fusion] with {Super Mira, Hunter Majin Buujor 2 markers on it from your hand or Drop 30000 Character Fin POWER Special Trai Android Era Dark(Empire Saga BS&1A P-639 PR NOT FOR SALE BANDAMADENJARAN EN"
+  },
+  {
+    "id": "card:BT24-027SR_3041f996a9501add",
+    "tohuManaId": "TM-BT24027SR",
+    "name": "Trunks, Admiration of Tapion",
+    "cardNumber": "BT24-027SR",
+    "setName": "Beyond Generations",
+    "imageUrl": "/images/BT24-027SR_Trunks-Admiration-of-Tapion.jpg",
+    "images": [
+      "/images/BT24-027SR_Trunks-Admiration-of-Tapion.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.17,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT24-027SR_Trunks-Admiration-of-Tapion.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.15
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.23
+      },
+      {
+        "date": "Current",
+        "price": 0.17
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "of your <Hirudegarn> cards Activate:Main Choose and KO of your blue (Hero) then cards it, choose t0 withan itto its owner's energy of and return cost hand&Switch toActiveMode. up to 1 of your energy 15000 POWER BS/S,IA BT24-027 SR BANDAIMADEINJAPAN EN"
+  },
+  {
+    "id": "card:S801-03_fe2cda016ab389e4",
+    "tohuManaId": "TM-S80103",
+    "name": "Majin Buu",
+    "cardNumber": "S801-03",
+    "setName": "Super Saiyan",
+    "imageUrl": "/images/S801-03_Majin-Buu.jpg",
+    "images": [
+      "/images/S801-03_Majin-Buu.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 40.14,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/S801-03_Majin-Buu.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 32.11
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 36.13
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 54.19
+      },
+      {
+        "date": "Current",
+        "price": 40.14
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Majin Buu [S801-03]",
+        "uri": "https://www.pricecharting.com/search-products?q=S801-03&type=prices"
+      }
+    ],
+    "grade": {
+      "centering": 9.5,
+      "corners": 9.0,
+      "edges": 9.5,
+      "surface": 8.5,
+      "overall": 9.0,
+      "report": "Outstanding centering and crisp edges. Minor surface scuff visible only under angled light. Graded and signed by Whiro."
+    },
+    "verificationHash": "d8a1c9b2f3e46c7d8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1a",
+    "isManualUpload": false,
+    "rawOcrData": "reveal up to 1 <Babidi> or up to 1 card with Majin in its special traits and add it to hand. your Place the rest at the bottom of their owner's deck in random a order. Majin Buu S801-03 2 Majin"
+  },
+  {
+    "id": "card:BT23-128_df866c85582607bb",
+    "tohuManaId": "TM-BT23128",
+    "name": "SS2 Kefla, Shattering Light",
+    "cardNumber": "BT23-128",
+    "setName": "Perfect Combination",
+    "imageUrl": "/images/BT23-128_SS2-Kefla-Shattering-Light.jpg",
+    "images": [
+      "/images/BT23-128_SS2-Kefla-Shattering-Light.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.24,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT23-128_SS2-Kefla-Shattering-Light.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.19
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.22
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "Current",
+        "price": 0.24
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "underthis card, then choose upto 1 ofyouropponeuso RestMode Battle CardsandKOit. Kefla 16000 Character PONER Saiyan/Universe 6 Universe Survival Saga 2 9 CBS/SA 8124-1289 INSAPAN BANOAIMADE"
+  },
+  {
+    "id": "card:P04-22PR_b071516adb1bd20c",
+    "tohuManaId": "TM-P0422PR",
+    "name": "Meta-Cooler",
+    "cardNumber": "P04-22PR",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/P04-22PR_Meta-Cooler.jpg",
+    "images": [
+      "/images/P04-22PR_Meta-Cooler.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.5,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P04-22PR_Meta-Cooler.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.4
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.68
+      },
+      {
+        "date": "Current",
+        "price": 0.5
+      }
+    ],
+    "sources": [
+      {
+        "title": "DBS Reference DB Match: Prismatic Clash",
+        "uri": "local://DBS_Ref.csv"
+      }
+    ],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "your opponent's Battle eCards and kO it.  Meta-Cooler Character 4000 POWER Frieza Clan Special Trait Cooler Saga Era ©BS/S.TA LW P-422 PR EN NOT FOR SALE BANDAIMADEIN JARAN"
+  },
+  {
+    "id": "card:BT28-115R_41455a790fe30c5a",
+    "tohuManaId": "TM-BT28115R",
+    "name": "Piccolo, Brilliant Strategy",
+    "cardNumber": "BT28-115R",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/BT28-115R_Piccolo-Brilliant-Strategy.jpg",
+    "images": [
+      "/images/BT28-115R_Piccolo-Brilliant-Strategy.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.15,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-115R_Piccolo-Brilliant-Strategy.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "Current",
+        "price": 0.15
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT25-005SR_c572137d9dd17d93",
+    "tohuManaId": "TM-BT25005SR",
+    "name": "Son Goku, Non-stop Attack",
+    "cardNumber": "BT25-005SR",
+    "setName": "Legend of the Dragon Balls",
+    "imageUrl": "/images/BT25-005SR_Son-Goku-Non-stop-Attack.jpeg",
+    "images": [
+      "/images/BT25-005SR_Son-Goku-Non-stop-Attack.jpeg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.03,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT25-005SR_Son-Goku-Non-stop-Attack.jpeg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.62
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.83
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 2.74
+      },
+      {
+        "date": "Current",
+        "price": 2.03
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Battle Cards with 30oo0 poweror more and place itin its owner'sDrop:This card gets+9000power and Double Strike forthe battle. 16000 Character Son Goku : Childhood POWER Special Trait Salyan Era KingiPiecolo Saga CO EAUOCCamOon a00 ENK BT25-005 SR"
+  },
+  {
+    "id": "card:BT28-103_be93b472828c9ee7",
+    "tohuManaId": "TM-BT28103",
+    "name": "Stop, You Fiend!",
+    "cardNumber": "BT28-103",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/BT28-103_Stop-You-Fiend.jpg",
+    "images": [
+      "/images/BT28-103_Stop-You-Fiend.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.15,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-103_Stop-You-Fiend.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.05
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.45
+      },
+      {
+        "date": "Current",
+        "price": 0.15
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "RestMode This card gains Permanent Heroicinallareas. Permanent Hyou haveayellow Heroic) cardinplay. youcanactivate this card's Counter skillfromyour handbyadding card fromyourlifetoyourhand 0 insteadofpaying itsenergycost 1A"
+  },
+  {
+    "id": "card:BT20-138SR_73093e188912baa8",
+    "tohuManaId": "TM-BT20138SR",
+    "name": "Son Gohan, Strength of Conviction",
+    "cardNumber": "BT20-138SR",
+    "setName": "Power Absorbed",
+    "imageUrl": "/images/BT20-138SR_Son-Gohan-Strength-of-Conviction.jpeg",
+    "images": [
+      "/images/BT20-138SR_Son-Gohan-Strength-of-Conviction.jpeg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 1.62,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT20-138SR_Son-Gohan-Strength-of-Conviction.jpeg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.3
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.46
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 2.19
+      },
+      {
+        "date": "Current",
+        "price": 1.62
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "ofUniverse 7> card and it'syour opponent'sturn : Switch up to 1 ofyour Red/Blue multicolorenergy to Active Mode, and you can't play Battle Cards from your hand until the end of your next turn. 15000 Character Son Gohan & Adolescence POWER Special Trait Saiyan/Earthling/Universe 7 Era Universe Survival Saga OB.S/S., T.A. BANDAIMADE INJAPAN EN BT20-138 SR"
+  },
+  {
+    "id": "card:P-274PR_cab5ab4c4e6a7271",
+    "tohuManaId": "TM-P274PR",
+    "name": "Launch, Feminine Wiles (Event Pack 08)",
+    "cardNumber": "P-274PR",
+    "setName": "Tournament Promotion Cards",
+    "imageUrl": "/images/P-274PR_Launch-Feminine-Wiles-Event-Pack-08.jpg",
+    "images": [
+      "/images/P-274PR_Launch-Feminine-Wiles-Event-Pack-08.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.25,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-274PR_Launch-Feminine-Wiles-Event-Pack-08.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.23
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.34
+      },
+      {
+        "date": "Current",
+        "price": 0.25
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "tace-up cardsinyourlitetaceaown. roucanntacuvate the skillson card for the turn. Auto copies of this Character Launch 1000 POWER Special-Trait Earthling King Piccolo Saga Era DBS/S-TA P-274 PR BANDAI MADE IN JAPAN EN RE"
+  },
+  {
+    "id": "card:BT25-085SR_c2a87ef6cf5ac157",
+    "tohuManaId": "TM-BT25085SR",
+    "name": "Boujack, Unleashed Space Pirate (SPR)",
+    "cardNumber": "BT25-085SR",
+    "setName": "Legend of the Dragon Balls",
+    "imageUrl": "/images/BT25-085SR_Boujack-Unleashed-Space-Pirate-SPR.jpg",
+    "images": [
+      "/images/BT25-085SR_Boujack-Unleashed-Space-Pirate-SPR.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.45,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT25-085SR_Boujack-Unleashed-Space-Pirate-SPR.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.36
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.41
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.61
+      },
+      {
+        "date": "Current",
+        "price": 0.45
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Activate:Main Limit 1 2,iyour reeduerse youropponenthas3-or-more energy: Brigade) card and card-from,yourhand. play this card and Draw1 Boujack Character 30000 Boujack Brigade POWER Special Trait Boujack Saga Era CBS/S.TA BT25-085 SR BANDAMLADENJAPAN EN"
+  },
+  {
+    "id": "card:BT24-133_bc793806835f8b97",
+    "tohuManaId": "TM-BT24133",
+    "name": "Frieza, Overdrive Activation",
+    "cardNumber": "BT24-133",
+    "setName": "Beyond Generations",
+    "imageUrl": "/images/BT24-133_Frieza-Overdrive-Activation.jpg",
+    "images": [
+      "/images/BT24-133_Frieza-Overdrive-Activation.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 1.45,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT24-133_Frieza-Overdrive-Activation.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 1.16
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 1.3
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 1.95
+      },
+      {
+        "date": "Current",
+        "price": 1.45
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "OUJSU cuamus carann yourenergy. negate this cardis Energy-Exhaust skillin all areas. Auto When this card is played, your can't opponent attack until the endof their unless they switch 1of turn their Active Mode card's Rest Modeeach to time. Frieza Character 30000 POWER Trait Frieza Special Clany/Friezas Army Frieza Saga Era Galaxy S23 F OBS/STA BANDAIMADEINJAPAN EN"
+  },
+  {
+    "id": "card:P-473_d7e344ab3fda978f",
+    "tohuManaId": "TM-P473",
+    "name": "Majin Buu, Pure Destroyer",
+    "cardNumber": "P-473",
+    "setName": "Promo",
+    "imageUrl": "/images/P-473_Majin-Buu-Pure-Destroyer.jpg",
+    "images": [
+      "/images/P-473_Majin-Buu-Pure-Destroyer.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 2.85,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-473_Majin-Buu-Pure-Destroyer.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 2.28
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 2.56
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 3.85
+      },
+      {
+        "date": "Current",
+        "price": 2.85
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:BT28-092UC_de8d8066e3d0d6e4",
+    "tohuManaId": "TM-BT28092UC",
+    "name": "SS Son Goku, Challenging a Majin",
+    "cardNumber": "BT28-092UC",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/BT28-092UC_SS-Son-Goku-Challenging-a-Majin.jpg",
+    "images": [
+      "/images/BT28-092UC_SS-Son-Goku-Challenging-a-Majin.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.46,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-092UC_SS-Son-Goku-Challenging-a-Majin.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.37
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.41
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.62
+      },
+      {
+        "date": "Current",
+        "price": 0.46
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "<Vegito> card and your opponent has 2 or more energy 8 Draw card and play this card from your hand. 1 Character Son Goku 20000 POWER Special Trait Saiyan Era Majin Buu Saga OB.S/S.TA ILTRA BT28-092 UC BANDAIMADEIISJAPAN EN BOUT"
+  },
+  {
+    "id": "card:BT28-106UC_c28230c687a8812c",
+    "tohuManaId": "TM-BT28106UC",
+    "name": "Belmod",
+    "cardNumber": "BT28-106UC",
+    "setName": "Ultra Instinct",
+    "imageUrl": "/images/BT28-106UC_Belmod.jpg",
+    "images": [
+      "/images/BT28-106UC_Belmod.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.25,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-106UC_Belmod.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.23
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.34
+      },
+      {
+        "date": "Current",
+        "price": 0.25
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "Choose up to 1 ofyour cards and it gets+10000 power forthe battle. Belmod 15000 Character POWER Special Trait God/Universe 11 Era Universe Survival Saga ULTRA BT28-106 UC BOUT"
+  },
+  {
+    "id": "card:BT24-013_ca7832ea724be33b",
+    "tohuManaId": "TM-BT24013",
+    "name": "SS2 Vegeta, Charging Rage",
+    "cardNumber": "BT24-013",
+    "setName": "Beyond Generations",
+    "imageUrl": "/images/BT24-013_SS2-Vegeta-Charging-Rage.jpg",
+    "images": [
+      "/images/BT24-013_SS2-Vegeta-Charging-Rage.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 4.49,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT24-013_SS2-Vegeta-Charging-Rage.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 3.59
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 4.04
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 6.07
+      },
+      {
+        "date": "Current",
+        "price": 4.49
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": ""
+  },
+  {
+    "id": "card:P-471PR_62c91ad7cbbe70b6",
+    "tohuManaId": "TM-P471PR",
+    "name": "Son Goten, Challenging the Dark Empire (Z03 Dash Pack)",
+    "cardNumber": "P-471PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-471PR_Son-Goten-Challenging-the-Dark-Empire-Z03-Dash-Pack.jpg",
+    "images": [
+      "/images/P-471PR_Son-Goten-Challenging-the-Dark-Empire-Z03-Dash-Pack.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.24,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-471PR_Son-Goten-Challenging-the-Dark-Empire-Z03-Dash-Pack.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.19
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.22
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "Current",
+        "price": 0.24
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "SupremeKaror Time>,you nave Z or more energy. and youhave <Trunks:Xeno> in play Play thiscardfrom a handor Warp. your 25000 Character Son Goten 8Xeno POWER Special Trait Saiyan/Earthling Era Dark Empire Saga OBS/S.TA BANDAU MADEINJAPAN EN NOT FOR SALE P-471 PR"
+  },
+  {
+    "id": "card:BT28-056UC_1da1fd8534f5010d",
+    "tohuManaId": "TM-BT28056UC",
+    "name": "Tien Shinhan",
+    "cardNumber": "BT28-056UC",
+    "setName": "Ultra Collection",
+    "imageUrl": "/images/BT28-056UC_Tien-Shinhan.jpg",
+    "images": [
+      "/images/BT28-056UC_Tien-Shinhan.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.23,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-056UC_Tien-Shinhan.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.18
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.21
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.32
+      },
+      {
+        "date": "Current",
+        "price": 0.23
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "by Character Tien Shinhan -15000 POWER Special Trait Earthling/World Tournament Era World Martial Arts Tournament Saga BT28-056 UC BOUT"
+  },
+  {
+    "id": "card:BT28-073_testwatcherhash",
+    "tohuManaId": "TM-BT28073",
+    "name": "Mercenary Tao, Mechanized Obsession",
+    "cardNumber": "BT28-073",
+    "setName": "Prismatic Clash",
+    "imageUrl": "/images/BT28-073_Mercenary-Tao-Mechanized-Obsession.jpg",
+    "images": [
+      "/images/BT28-073_Mercenary-Tao-Mechanized-Obsession.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.15,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/BT28-073_Mercenary-Tao-Mechanized-Obsession.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.12
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.14
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.2
+      },
+      {
+        "date": "Current",
+        "price": 0.15
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "RestMode Saiyan Mercenary Tao, Mechanized Obsession BT28-O73"
+  },
+  {
+    "id": "card:P-460PR_59d914431b21c81c",
+    "tohuManaId": "TM-P460PR",
+    "name": "Pan, Heartfelt Support (Z03 Dash Pack)",
+    "cardNumber": "P-460PR",
+    "setName": "Promotion Cards",
+    "imageUrl": "/images/P-460PR_Pan-Heartfelt-Support-Z03-Dash-Pack.jpg",
+    "images": [
+      "/images/P-460PR_Pan-Heartfelt-Support-Z03-Dash-Pack.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.32,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/P-460PR_Pan-Heartfelt-Support-Z03-Dash-Pack.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.26
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.29
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.43
+      },
+      {
+        "date": "Current",
+        "price": 0.32
+      }
+    ],
+    "sources": [],
+    "grade": null,
+    "verificationHash": null,
+    "isManualUpload": false,
+    "rawOcrData": "2cards from your life to your hand, choose1 <Trunks: GT> card in <SonGoku:GT> Battle or your Area,and itgets +5000 power fortheturn. 10000 Character Pan POWER Special Trait Saiyan/Earthling Era Black Star Dragon Ball Saga OBS/S.TA BANDAI MADE IN JAPAN EN NOT FOR SALE P-460 PR"
+  }
+]
