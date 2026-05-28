@@ -632,6 +632,55 @@
     "rawOcrData": "of your energy and switch it to Active Mode. Vegeta: Br Character 10000 POWER Special Trait Saiyan Era 085: Broly Saga CBS/STA TB3-051FR EN RE BANDAU MADEINJAPAN"
   },
   {
+    "id": "card:SB01-033_fe2cda016ab389e4",
+    "tohuManaId": "TM-SB01033",
+    "name": "Majin Buu",
+    "cardNumber": "SB01-033",
+    "setName": "Manga Booster 01",
+    "imageUrl": "/images/SB01-033_Majin-Buu.jpg",
+    "images": [
+      "/images/SB01-033_Majin-Buu.jpg"
+    ],
+    "condition": "Near Mint",
+    "estimatedValue": 0.0,
+    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/SB01-033_Majin-Buu.jpg",
+    "priceHistory": [
+      {
+        "date": "4 weeks ago",
+        "price": 0.0
+      },
+      {
+        "date": "3 weeks ago",
+        "price": 0.0
+      },
+      {
+        "date": "2 weeks ago",
+        "price": 0.0
+      },
+      {
+        "date": "Current",
+        "price": 0.0
+      }
+    ],
+    "sources": [
+      {
+        "title": "PriceCharting: Majin Buu [SB01-033]",
+        "uri": "https://www.pricecharting.com/search-products?q=SB01-033&type=prices"
+      }
+    ],
+    "grade": {
+      "centering": 9.5,
+      "corners": 9.0,
+      "edges": 9.5,
+      "surface": 8.5,
+      "overall": 9.0,
+      "report": "Outstanding centering and crisp edges. Minor surface scuff visible only under angled light. Graded and signed by Whiro."
+    },
+    "verificationHash": "d8a1c9b2f3e46c7d8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1a",
+    "isManualUpload": false,
+    "rawOcrData": "reveal up to 1 <Babidi> or up to 1 card with Majin in its special traits and add it to hand. your Place the rest at the bottom of their owner's deck in random a order. Majin Buu S801-03 2 Majin"
+  },
+  {
     "id": "card:P-639PR_4e0a974ea4028cc7",
     "tohuManaId": "TM-P639PR",
     "name": "Fin, Evolving Dark Power (Zenkai Series Tournament Pack Vol.9) (Winner)",
@@ -835,55 +884,6 @@
     "verificationHash": null,
     "isManualUpload": false,
     "rawOcrData": "cards with tAgentorbesuuee BattleArea,and Dropis 7 Z-Energy. Leader Arean energy card from your hand. Playthis ormore: Syw Shenran 30000 Character POWER Scecial Trait Shadow Cragan Agent ofCestruchian Spectal BSSIA P-475PR NARAN EN NOT FOR SALE"
-  },
-  {
-    "id": "card:S801-03_fe2cda016ab389e4",
-    "tohuManaId": "TM-S80103",
-    "name": "Majin Buu",
-    "cardNumber": "S801-03",
-    "setName": "Super Saiyan",
-    "imageUrl": "/images/S801-03_Majin-Buu.jpg",
-    "images": [
-      "/images/S801-03_Majin-Buu.jpg"
-    ],
-    "condition": "Near Mint",
-    "estimatedValue": 40.14,
-    "lastUpdated": "/home/hemi-whiro/Te_Po-MAIN/storage/dbs_cards/S801-03_Majin-Buu.jpg",
-    "priceHistory": [
-      {
-        "date": "4 weeks ago",
-        "price": 32.11
-      },
-      {
-        "date": "3 weeks ago",
-        "price": 36.13
-      },
-      {
-        "date": "2 weeks ago",
-        "price": 54.19
-      },
-      {
-        "date": "Current",
-        "price": 40.14
-      }
-    ],
-    "sources": [
-      {
-        "title": "PriceCharting: Majin Buu [S801-03]",
-        "uri": "https://www.pricecharting.com/search-products?q=S801-03&type=prices"
-      }
-    ],
-    "grade": {
-      "centering": 9.5,
-      "corners": 9.0,
-      "edges": 9.5,
-      "surface": 8.5,
-      "overall": 9.0,
-      "report": "Outstanding centering and crisp edges. Minor surface scuff visible only under angled light. Graded and signed by Whiro."
-    },
-    "verificationHash": "d8a1c9b2f3e46c7d8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1a",
-    "isManualUpload": false,
-    "rawOcrData": "reveal up to 1 <Babidi> or up to 1 card with Majin in its special traits and add it to hand. your Place the rest at the bottom of their owner's deck in random a order. Majin Buu S801-03 2 Majin"
   },
   {
     "id": "card:BT23-128_df866c85582607bb",

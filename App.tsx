@@ -647,6 +647,7 @@ const App: React.FC = () => {
                   <h3 className="text-4xl font-black text-white mb-2 uppercase tracking-tighter">{selectedCard.name}</h3>
                   <div className="flex flex-wrap gap-3">
                     <span className="px-4 py-1.5 bg-red-950/30 border border-red-800/40 rounded-full text-xs font-black text-red-100 uppercase tracking-widest">{selectedCard.setName}</span>
+                    <span className="px-4 py-1.5 bg-red-950/30 border border-red-800/40 rounded-full text-xs font-black text-red-100 uppercase tracking-widest">#{selectedCard.cardNumber}</span>
                     <span className="px-4 py-1.5 bg-red-700 text-white border border-red-400 rounded-full text-xs font-black uppercase tracking-widest shadow-lg">{selectedCard.condition}</span>
                   </div>
                 </div>
